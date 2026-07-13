@@ -1,0 +1,47 @@
+{
+  "type": "wt-funding",
+  "v": 1,
+  "exportedAt": "2026-07-13T11:05:15.605Z",
+  "funding": [
+    {
+      "address": "CFa43evrNsrDF8ES1Q1VarKgB4dYoMoaHFe2xjowmVei",
+      "label": "Robinhood Pools",
+      "category": "user"
+    },
+    {
+      "address": "6aq6pcU9RXK5WWYJFDXJ9ztNkKdH1SsbziuwjJ6NcmAE",
+      "label": "Robinhood Pools",
+      "category": "user"
+    },
+    {
+      "address": "BdZBQGZ3icyTGyhmQnzTpnWmQjDmHbGpmenWN6QPNipE",
+      "label": "Robinhood Pools",
+      "category": "user"
+    },
+    {
+      "address": "AgmLJBMDCqWynYnQiPCuj9ewsNNsBJXyzoUhD9LJzN51",
+      "label": "Fomo Co-signer",
+      "category": "user"
+    },
+    {
+      "address": "gasTzr94Pmp4Gf8vknQnqxeYxdgwFjbgdJa4msYRpnB",
+      "label": "Jupiter Gas Wallet",
+      "category": "user"
+    },
+    {
+      "address": "D89hHJT5Aqyx1trP6EnGY9jJUB3whgnq3aUvvCqedvzf",
+      "label": "Coinbase hot wallet",
+      "category": "user"
+    },
+    {
+      "address": "DwdrYTtTWHfnfJBiN2RH6EgPbquDQLjZTfTwpykPEq1g",
+      "label": "Robinhood Hot Wallet",
+      "category": "user"
+    },
+    {
+      "address": "F1sGWs2QBW3T4CZDsf9NyfG6DhhnnFjq2Zg5ueGUFgAR",
+      "label": "Binance Funded w/ large pool",
+      "category": "user"
+    }
+  ]
+}

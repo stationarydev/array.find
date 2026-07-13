@@ -1,0 +1,51 @@
+{
+  "type": "arrayfind-feedback",
+  "v": 1,
+  "exportedAt": "2026-07-13T11:05:16.368Z",
+  "flagged": [
+    {
+      "addr": "6nhskL8RVpXzWXC7mcC1UXpe3ze2p6P6og1jXVGUW88s",
+      "certBand": "LOW",
+      "certainty": 38,
+      "imported": true,
+      "kind": "supply-ok",
+      "mints": [
+        "Ac8EScJ4ufRo8PiFkun7diUrcCCktg4JvArb3mPmpump"
+      ],
+      "on": "88Vx3Mgde15KLmXYpXhwaNgo8AKXRG456kDFpgR8oNWe",
+      "signals": [
+        "Split — split of one buy: got 25.0K PP420 of a 149.4K buy alongside 1 other wallet(s) — 33% distributed in total"
+      ],
+      "ts": 1783781111076
+    },
+    {
+      "addr": "6nhskL8RVpXzWXC7mcC1UXpe3z2p6P6og1jXVGUW88s",
+      "certBand": "LOW",
+      "certainty": 34,
+      "imported": true,
+      "kind": "supply-ok",
+      "mints": [
+        "Ac8EScJ4ufRo8PiFkun7diUrcCCktg4JvArb3mPmpump"
+      ],
+      "on": "88Vx3Mgde15KLmXYpXhwaNgo8AKXRG456kDFpgR8oNWe",
+      "signals": [
+        "Split — split of one buy: got 25.0K PP420 of a 149.4K buy alongside 1 other wallet(s) — 33% distributed in total"
+      ],
+      "ts": 1783781116126
+    },
+    {
+      "actualLabel": "Normal transfer",
+      "addr": "5Z1zgWdPqSQbGPZqnLr1D41RhQM7qWzgkXcXhM5bbhw4",
+      "bundleScore": 0,
+      "certBand": "LOW",
+      "certainty": 0,
+      "factors": [],
+      "group": "other",
+      "imported": true,
+      "on": "88Vx3Mgde15KLmXYpXhwaNgo8AKXRG456kDFpgR8oNWe",
+      "signals": [],
+      "ts": 1783781219875,
+      "userCertainty": "med"
+    }
+  ]
+}
